@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331949449701",
+    "project_id": "registerwithu",
+    "storage_bucket": "registerwithu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331949449701:android:9870b342b1218357bacf0c",
+        "android_client_info": {
+          "package_name": "space.beka.registerwithnumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331949449701-ih2gathtgb5g3iebdc4p4prnhie9dlpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCancl1Qj0WAxLyLyq8Hy5CGD1a2ANsBaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331949449701-ih2gathtgb5g3iebdc4p4prnhie9dlpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
